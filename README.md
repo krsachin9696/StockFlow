@@ -4,6 +4,12 @@ A full-stack MERN (MongoDB, Express.js, React.js, Node.js) application built for
 
 ## 📸 Application Screenshots
 
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Register Page
+![Register Page](screenshots/register.png)
+
 ### Dashboard (Order Listing)
 ![Stocks UI](screenshots/dashboard.png)
 

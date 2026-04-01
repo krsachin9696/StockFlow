@@ -8,10 +8,10 @@ A full-stack MERN (MongoDB, Express.js, React.js, Node.js) application built for
 ![Stocks UI](screenshots/dashboard.png)
 
 ### Orders
-![Orders UI](screenshots/orders.png)
+![Orders UI](screenshots/order.png)
 
 ### Add Stock Modal
-![Add Stock Modal](screenshots/add_stock.png)
+![Add Stock Modal](screenshots/add_stocks.png)
 
 ### Add Order Modal
 ![Add Order Modal](screenshots/add_order.png)
